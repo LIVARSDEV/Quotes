@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#313133</color>
+    <color name="milkyYellow">#fff1d6 </color>
+    <color name="appIconColor">#36a0e8</color>
+    <color name="select">#B5FFFFFF</color>
+</resources>

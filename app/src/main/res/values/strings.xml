@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="create_quote">CREATE QUOTE</string>
+    <string name="enter_quote_here">Enter quote here</string>
+    <string name="save_quote">save_quote</string>
+    <string name="create_a_quote">create_a_quote</string>
+    <string name="quotes">Quotes</string>
+    <string name="no_quotes_available">No quotes available</string>
+    <string name="no_quote_available">no_quote_available</string>
+    <string name="update_quote_here">Update quote here</string>
+    <string name="update_quote">UPDATE QUOTE</string>
+    <string name="save_changes">save_changes</string>
+    <string name="quote_image">quote_image</string>
+</resources>
